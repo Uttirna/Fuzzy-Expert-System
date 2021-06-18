@@ -1,4 +1,4 @@
-# SheCare
+
 ## Fuzzy Based Expert System for Detection of Breast Cancer
 ### _Built using Python ,MATLAB, Tkinter Framework_
 
